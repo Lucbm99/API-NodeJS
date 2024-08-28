@@ -1,0 +1,20 @@
+{
+  "name": "aula-pratica",
+  "version": "1.0.0",
+  "description": "API - Projeto de CRUD em uma aula prática da pós graduação",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Lucas Baradel Marchiori",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sequelize": "^6.37.3",
+    "sqlite3": "^5.1.7"
+  }
+}
