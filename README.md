@@ -18,7 +18,7 @@ Sublime Text: https://www.sublimetext.com/
 
 NodeJS: https://nodejs.org/en
 
-Yarn: https://yarnpkg.com
+NPM: https://www.npmjs.com/
 
 SQLite: https://www.sqlite.org/
 
@@ -39,11 +39,14 @@ SQLite: https://www.sqlite.org/
 
 
 ## 🛠️ Feito com
-* [NodeJS](https://nodejs.org/en/)
-* [ReactJS](https://reactjs.org/docs/getting-started.html)
 * [Git](https://git-scm.com/downloads)
-* [Yarn](https://yarnpkg.com/)
-* [Next](https://nextjs.org/)
+* [Insomnia](https://insomnia.rest/download)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [NodeJS](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/)
+* [Sequelize](https://sequelize.org/)
+* [SQLite](https://www.sqlite.org/)
+
 
 ## ✒️ Licença 
 Consulte o arquivo LICENSE.md, para maiores detalhes.
